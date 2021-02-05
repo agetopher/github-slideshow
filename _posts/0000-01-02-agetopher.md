@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to out second slide!"
 ---
-*Something witty* oh and **MARKDOWN** is supported
+*Something else* oh and **markdown** is supported
 Use the left arrow to go back!
